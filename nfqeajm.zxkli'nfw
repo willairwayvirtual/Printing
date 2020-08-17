@@ -1,3 +1,5 @@
+Imports System.ComponentModel
+
 PrintDialog1.Document = PrintDocument1
         PrintDialog1.PrinterSettings = PrintDocument1.PrinterSettings
         PrintDialog1.AllowSomePages = True
